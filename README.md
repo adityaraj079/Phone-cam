@@ -17,3 +17,7 @@ pip install python-opencv
 pip install numpy
 ```
 
+STEPS:
+1. Change the url as given by your ip cam 's app.
+2. Import all the required modules.
+3. Enjoy using your phone's cam as ip camera.
