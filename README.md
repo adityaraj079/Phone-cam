@@ -1,5 +1,5 @@
 # Phone-cam
-Use phone as IP CAM
+Use phone as IP CAM.
 
 
 MODULES REQUIRED
